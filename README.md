@@ -36,4 +36,12 @@
 
    b) Statistikas rezultātus (vidējo vērtību, mediānu, vismazāko un lielāko skaitli, un skaitļu summu).
 
+   1. Algoritma darbība un mērķis
+Šī Python programma izmanto Insertion Sort algoritmu, lai šķirotu ievadītos skaitļus augošā secībā, un pēc tam aprēķina dažādus statistikas rādītājus, piemēram, vidējo vērtību (aritmētisko vidējo), mediānu, skaitļu summu, vismazāko un lielāko skaitli.
+
+Mērķis:
+
+Šis algoritms palīdz lietotājam analizēt un apstrādāt skaitļus, aprēķinot svarīgākos statistikas rādītājus un sakārtojot datus.
+Insertion Sort algoritms tiek izmantots, lai sakārtotu skaitļus, un pēc tam tiek veikta analīze, sniedzot lietotājam informāciju par datu kopas īpašībām.
+
 
