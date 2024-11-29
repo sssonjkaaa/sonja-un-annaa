@@ -43,5 +43,7 @@ Mērķis:
 
 Šis algoritms palīdz lietotājam analizēt un apstrādāt skaitļus, aprēķinot svarīgākos statistikas rādītājus un sakārtojot datus.
 Insertion Sort algoritms tiek izmantots, lai sakārtotu skaitļus, un pēc tam tiek veikta analīze, sniedzot lietotājam informāciju par datu kopas īpašībām.
+	Apraksts par izmantotajiem principiem vai loģiku.
+USER INPUT DATA -> PRINT UNSORTED DATA -> SORT DATA -> CALC AVERAGE
 
 
